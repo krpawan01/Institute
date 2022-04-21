@@ -541,10 +541,10 @@ section {
     box-shadow: var(--box-shodow);
   }
   .home .content h3{
-      font-size: 7rem;
+      font-size: 5rem;
   }
   .home .content p {
-      font-size: 4rem;
+      font-size: 3rem;
   }
   .btn {
       font-size: 2.5rem;
