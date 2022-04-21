@@ -1,17 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap");
-/* :root {
-  --black: #0f020d;
-  --white: #fff;
-  --gradient: linear-gradient(#fc144e, #ff0385);
-  --background: rgba(255, 255, 255, 0.1);
-  --box-shodow: 0 0.5rem 1rem;
-  /* --border:1rem solid rgba(255,255,255,.1); */
-  /* --border: 0.1rem solid #ff69b4; */
-  /* --border-top:1rem solid rgba(255,255,255,.3); */
-  /* --border-top: 0.1rem solid #ff00bf; */
-  /* --border-left:1rem solid rgba(255,255,255,.3); */
-  /* --border-left: 0.1rem solid #ff00bf; */
-/* } */ 
+
 :root {
   --black:#141313 ;
   --white:#fff7f7;
