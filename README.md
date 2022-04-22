@@ -1,2 +1,2 @@
 # Institute
-Instuate that help the student grow up 
+Institute that help the student grow up.
