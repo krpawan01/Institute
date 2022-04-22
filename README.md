@@ -1,2 +1,2 @@
-# instuate
+# institute
 Instuate that help the student grow up 
