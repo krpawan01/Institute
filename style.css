@@ -185,6 +185,9 @@ section {
    text-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.1);
    /* box-shadow: var(--box-shodow); */
  }
+.Courses .box {
+   overflow: hidden;
+ }
  .Courses .box-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
