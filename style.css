@@ -201,6 +201,7 @@ section {
   box-shadow: var(--box-shodow);
   padding: 2rem;
   backdrop-filter: blur(0.4rem);
+  overflow:hidden;
  }
  .Courses .box-container .box h3{
    font-size: 2rem;
